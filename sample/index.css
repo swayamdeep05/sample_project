@@ -1,0 +1,34 @@
+:root {
+    --link-color: blue;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: var(--link-color);
+}
+
+.carousel-item img {
+    height: 85vh;
+}
+
+.divider {
+    height: 5px;
+    /* background-color: black; */
+}
+
+.about-1 {
+    height: 250px;
+    width: 100%;
+}
+
+.foot-nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.foot-nav a:hover {
+    color: skyblue;
+}
